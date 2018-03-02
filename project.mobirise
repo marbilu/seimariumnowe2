@@ -636,15 +636,15 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-0-3-8-23-42-171698.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-5-20-38-43-790346.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=UgzmvneDtFw&feature=youtu.be",
+                "videoUrl": "https://www.youtube.com/watch?v=NFZBz1ShcDA&feature=youtu.be",
                 "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery00-800x500.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "1. Dobra Nowina",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -656,7 +656,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "2. Boża Miłość",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creative",
